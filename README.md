@@ -1,6 +1,7 @@
 # down to the hollow demo
 
 本项目是一个简单的网页小游戏，旨在复现绝区零的走格子玩法，所有代码均由GLM-5大模型编写，仅供参考，以下为大模型撰写的使用说明。
+演示链接：https://downtothehollowdemo.space.z.ai
 
 # 🚀 Welcome to Z.ai Code Scaffold
 
